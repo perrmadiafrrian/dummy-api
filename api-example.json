@@ -1,0 +1,9 @@
+{
+  "api": {
+    "one": {
+      "first": 1,
+      "second": "string",
+      "third": ["a", "b", "c"]
+    }
+  }
+}
